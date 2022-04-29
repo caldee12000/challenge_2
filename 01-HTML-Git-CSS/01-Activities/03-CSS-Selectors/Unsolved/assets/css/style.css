@@ -17,6 +17,14 @@ footer {
   background-color: #191970;
 }
 
+footer {
+  background-color: salmon;
+}
+
+footer section {
+  background-color: c00;
+}
+
 figure {
   width: 200px;
   background-color: #f0ead6;
