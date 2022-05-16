@@ -41,7 +41,7 @@ footer {
 }
 
 
--
+
 .dev-info {
     grid-column: 10/2;
     grid-row: 1/40
@@ -65,7 +65,7 @@ a{color:#0b0c11}
  
 #about-me {
     grid-column: 1/6;
-    grid-row: ;
+    grid: row  ;
 }
 
 #work {
@@ -75,7 +75,7 @@ a{color:#0b0c11}
 }
 #Contact-Me {
     grid-column: 6/13;
-    grid-row: 20/;
+    grid-row: 20/1;
   
 }
 
@@ -97,14 +97,17 @@ a{color:#0b0c11}
     background-position: center; 
 }
 
-  {
+ .Work {
     font-weight: bold;
     margin: 0;
     font-size: 100
 
     px;
-    color: #0b0c11;
-  } 
+  }
+    {
+    color: #0b011;
+    }
+    
 
     h1 { font-weight: bold;
         margin: 0;
